@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   },
   itemContainer: {
     justifyContent: "center",
-    borderBottomColor: theme.colorCerulean,
+    borderBottomColor: theme.colors.cerulean,
     borderBottomWidth: 1,
     paddingHorizontal: 8,
     paddingVertical: 16,
