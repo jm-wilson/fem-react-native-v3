@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> Hi! This repo contains all of my code as I worked through the [React Native, v3](https://frontendmasters.com/courses/react-native-v3/) course on Frontend Masters.  Each batch of changes is loosely aligned with one of the course's exercises, but these changes are not identical to the course's content.
+> 
+> My approach to learning often involves following various rabbit holes when I want to understand something better, and cutting other corners when I think I understand them well enough.  While my code in this repo is public for all to see, I would recommend taking the course on Frontend Masters and finding your own rabbit holes to follow (and corners to cut!) to suit your own learning journey.
+>
+> *- Joe*
+
+*Content below this line was preserved from the original README.*
+<hr>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
